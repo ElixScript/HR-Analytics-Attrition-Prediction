@@ -5,10 +5,6 @@ Retain or Resign: Decoding the 'Why' Behind Employee Turnover with Data
 
 This project analyzes employee attrition data to understand the key factors driving employee turnover and builds a predictive model to identify employees at high risk of leaving. The goal is to provide insights that can help organizations develop targeted retention strategies.
 
-## Dataset
-
-The dataset used in this project is sourced from [mention dataset source, e.g., a CSV file name or a public repository if applicable]. It contains various employee features, including demographic information, job details, satisfaction levels, and work history.
-
 ## Project Structure
 
 1.  **Data Loading and Exploration:** Load the dataset and perform initial exploration to understand data types, missing values, and basic statistics.
